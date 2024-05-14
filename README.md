@@ -3,10 +3,11 @@
 I am ML developer specializing on TimeSeries, optimization and CV. Here you will find a collection of projects and repositories that showcase my skills.
 ### 💻 Technologies stack
 ---
-1. PyTorch
-2. CatBoost
-3. SQL
-4. Pandas
+1. PyTorch RL
+2. Stochastic process
+3. CatBoost
+4. SQL
+5. Pandas
 
 ### 📫 Contact Me
 ---
